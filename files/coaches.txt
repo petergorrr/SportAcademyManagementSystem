@@ -1,0 +1,12 @@
+Coach ID,Coach Name,Date Joined,Date Terminated,Hourly Rate,Phone,Address,Sport Centre Code,Sport Center Name,Sport Code,Sport Name,Rating
+C001,Ali Farag,2022-01-15,,150.00,123-456-7890,123 Main St,SC001,Sport Center A,S001,Swimming,4
+C002,Mohamed Elshorbagy,2021-11-20,,200.00,987-654-3210,456 Elm St,SC002,Sport Center B,S002,Badminton,5
+C003,Michael Johnson,2022-03-10,2023-08-25,180.00,555-555-5555,789 Oak St,SC001,Sport Center A,S003,Football,3
+C004,Elizabeth Tayeb,2022-02-05,,200.00,333-333-3333,789 Pine St,SC002,Sport Center B,S004,Volleyball,4
+C005,Robert Brown,2023-04-22,,250.00,777-777-7777,101 Cedar St,SC001,Sport Center A,S005,Basketball,5
+C006,Emily Wilson,2021-09-08,2023-05-15,190.00,222-222-2222,555 Oak Ave,SC003,Sport Center C,S006,Gymnastics,3
+C007,David Lee,2023-06-10,,160.00,444-444-4444,222 Elm Dr,SC001,Sport Center A,S007,Cricket,4
+C008,Sarah Brown,2022-08-12,2023-11-30,210.00,666-666-6666,888 Maple Rd,SC002,Sport Center B,S008,Tennis,2
+C009,James Taylor,2021-10-25,,140.00,111-111-1111,777 Pine Ave,SC003,Sport Center C,S009,Table Tennis,5
+C010,Taylor Swift,2023-05-20,,250.00,012-902-3939,333 Cedar Ali,SC003,Sport Center C,S008,Tennis,3
+C011,Najib Razak,2023-09-10,,300.00,019-829-2898,100 Maple Road,SC002,Sport Center B,S009,Table Tennis,5

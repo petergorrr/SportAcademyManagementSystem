@@ -1,0 +1,11 @@
+Student ID,Name,Sport,Coach,Schedule,Password
+101,John Doe,Swimming,Coach Smith,Monday 10:00 AM,password1
+102,Jane Smith,Badminton,Coach Johnson,Wednesday 3:30 PM,password2
+103,Michael Johnson,Football,Coach Davis,Friday 5:00 PM,password3
+104,Emily Wilson,Gymnastics,Coach Brown,Tuesday 4:15 PM,password4
+105,Anwar Ibrahim,Squash,Coach Shakespeare,Friday 7:00 PM,password5
+106,Sarah Taylor,Basketball,Coach Anderson,Monday 2:00 PM,password6
+107,James Smith,Cricket,Coach Patel,Wednesday 7:45 PM,password7
+108,Olivia Miller,Tennis,Coach Harris,Tuesday 1:30 PM,password8
+109,William Davis,Table Tennis,Coach Turner,Thursday 4:45 PM,password9
+110,Sophia Adams,Archery,Coach Martinez,Friday 3:00 PM,password10

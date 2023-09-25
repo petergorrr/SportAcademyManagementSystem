@@ -1,0 +1,13 @@
+Sport ID,Sport Name
+S001,Swimming
+S002,Badminton
+S003,Football
+S004,Volleyball
+S005,Basketball
+S006,Gymnastics
+S007,Muay Thai
+S008,Wushu
+S009,Table Tennis
+S010,Archery
+S011,Squash
+S012,Karate
