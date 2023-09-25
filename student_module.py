@@ -110,12 +110,19 @@ def register_student():
         return
 
     new_name = input("Enter Name: ").strip()
+    new_sport = input("Enter Sport: ").strip()
+    new_coach = input("Enter Coach: ").strip()
+    new_schedule = input("Enter Schedule: ").strip()
     new_password = input("Create a Password: ").strip()
-    registered_students.append(f"{new_student_id},{new_name},{new_password}")
+
+    # Format the registration data
+    registration_data = f"{new_student_id},{new_name},{new_sport},{new_coach},{new_schedule},{new_password}"
+    registered_students.append(registration_data)
 
     # Save the registration data to the file
     with open(REGISTERED_STUDENTS_FILE, "a") as file:
-        file.write(f"{new_student_id},{new_name},{new_password}\n")
+        file.write("\n")
+        file.write(registration_data + "\n")
 
     print("Registration Successful!")
 

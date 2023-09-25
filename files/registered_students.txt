@@ -9,3 +9,4 @@ Student ID,Name,Sport,Coach,Schedule,Password
 108,Olivia Miller,Tennis,Coach Harris,Tuesday 1:30 PM,password8
 109,William Davis,Table Tennis,Coach Turner,Thursday 4:45 PM,password9
 110,Sophia Adams,Archery,Coach Martinez,Friday 3:00 PM,password10
+111,Nikola Tesla,Squash,Coach Martin,Monday 2:00 PM,password11
