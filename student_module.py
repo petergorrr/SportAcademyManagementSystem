@@ -1,5 +1,3 @@
-import os
-
 # File paths
 COACHES_FILE = "files/coaches.txt"
 SPORTS_FILE = "files/sports.txt"
